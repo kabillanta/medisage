@@ -10,4 +10,5 @@ MediSage is a smart health assistant designed to help users better understand po
 - **User-Friendly Interface**: Simple and intuitive interface for easy symptom tracking and insights.
 
 
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
