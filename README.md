@@ -1,5 +1,7 @@
 # MediSage - Smart Health Assistant
 
+![Preview Image](public/preview.png)
+
 MediSage is a smart health assistant designed to help users better understand potential causes of their symptoms. By allowing users to input current symptoms and select known medical conditions, MediSage provides tailored suggestions on possible underlying causes, helping bridge the gap between uncertainty and action.
 
 ## Features
